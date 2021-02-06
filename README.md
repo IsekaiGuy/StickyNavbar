@@ -1,3 +1,3 @@
 # StickyNavbar
 
-Sticky navigation bar
+Navigation bar is stick/ unstick during page scrolling.
